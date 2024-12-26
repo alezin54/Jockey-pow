@@ -7,24 +7,24 @@ Bem-vindo ao jogo **jokckey pow**! 🥳🎮 Este é um jogo simples feito com **
 - **Escolha sua opção**: **Pedra** 🪨, **Papel** 📄 ou **Tesoura** ✂️.
 - O **computador escolhe aleatoriamente**.
 - O **resultado** é mostrado após uma animação.
-- Layout **responsivo**, se adapta a qualquer dispositivo 📱💻.
+- Layout **responsivo**, se adapta a qualquer dispositivo .
 
 ## 🎮 Como Jogar
 
 1. **Clique** em uma das opções: **Pedra** 🪨, **Papel** 📄 ou **Tesoura** ✂️.
 2. O computador faz sua escolha **aleatória**.
-3. O resultado será mostrado logo após uma breve animação. ⏳
+3. O resultado será mostrado logo após uma breve animação.
 
 ### ⚖️ Regras do Jogo
 
-- **Pedra** 🪨 ganha de **Tesoura** ✂️, mas perde para **Papel** 📄.
-- **Papel** 📄 ganha de **Pedra** 🪨, mas perde para **Tesoura** ✂️.
-- **Tesoura** ✂️ ganha de **Papel** 📄, mas perde para **Pedra** 🪨.
+- **Pedra** ganha de **Tesoura**, mas perde para **Papel**.
+- **Papel** ganha de **Pedra**, mas perde para **Tesoura**.
+- **Tesoura** ganha de **Papel**, mas perde para **Pedra**.
 
 ### 🏆 Resultados Possíveis:
-- **Empate** 🤝: Quando as escolhas do jogador e do computador são iguais.
-- **Você Ganhou** 🎉: Quando a sua escolha vence a do computador.
-- **Computador Ganhou** 💻: Quando a escolha do computador vence a sua.
+- **Empate**: Quando as escolhas do jogador e do computador são iguais.
+- **Você Ganhou**: Quando a sua escolha vence a do computador.
+- **Computador Ganhou**: Quando a escolha do computador vence a sua.
 
 ## 🗂️ Estrutura do Projeto
 
