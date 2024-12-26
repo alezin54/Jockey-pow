@@ -62,4 +62,4 @@ function handleOptionClick(event) {
 
 optionImage.forEach(img => {
     img.addEventListener("click", handleOptionClick)
-})
+})  
