@@ -1,4 +1,4 @@
-# 🪨📄✂️ jockey pow
+# Jockey pow 🪨📄✂️
 
 Bem-vindo ao jogo **jokckey pow**! 🥳🎮 Este é um jogo simples feito com **HTML**, **CSS** e **JavaScript**. Você pode jogar contra o computador e ver quem ganha! O resultado é exibido logo após a escolha, e tudo acontece de forma interativa e divertida.
 
