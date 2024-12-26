@@ -4,7 +4,7 @@ Bem-vindo ao jogo **jokckey pow**! 🥳🎮 Este é um jogo simples feito com **
 
 ## 🚀 Funcionalidades
 
-- **Escolha sua opção**: **Pedra** 🪨, **Papel** 📄 ou **Tesoura** ✂️.
+- **Escolha sua opção**: **Pedra**, **Papel** ou **Tesoura**.
 - O **computador escolhe aleatoriamente**.
 - O **resultado** é mostrado após uma animação.
 - Layout **responsivo**, se adapta a qualquer dispositivo .
